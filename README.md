@@ -4,10 +4,7 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources) 
 - [Tools](#tools)
-- [Data Cleaning/Prearation](#data-cleaning-prepation)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Results/Findings](#resulsts/findings)
-- [Recommendations ](#recommendations)
+- [Website prepations](#website-preparations)
 - [Limitations](#limitations)
 
 
